@@ -2,4 +2,4 @@
 
 Curricularização da Extensão
 
-[](/readme/1.png)
+![](/readme/1.png)
